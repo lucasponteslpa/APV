@@ -1,0 +1,31 @@
+Projeto Banco de Dados de Cursinho - Descrição
+
+Observações: Gerar boleto altomaticamente,
+
+Aluno:
+	Nome
+	RG
+	CPF
+	Numero de telefone(dele,pai,mae)
+	endereco(rua,cep,bairro,cidade,estado)
+	curso:
+	
+Financeiro:
+	valor:
+	desconto:
+	data de vencimento:
+	ultimo mes pago:
+	
+
+descricao de pagamento:
+	forma de pagamento de matricula
+	forma de pagamento da mensalidade
+	numero de parcelas
+	valor das parelas
+	data de matricula
+	
+
+Aluno Visitante:
+	nome
+	datada aula experimental
+	
